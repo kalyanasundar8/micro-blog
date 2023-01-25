@@ -1,17 +1,28 @@
 {
-    "blogs":[
-        {
-            "id": 1,
-            "title": "My new website",
-            "body": "lorem ipsum...",
-            "author": "mario"
-        },
-        {
-            "id": 2,
-            "title": "My website",
-            "body": "lorem ipsum...",
-            "author": "luigi"
-        }
-    ]
-
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "mario"
+    },
+    {
+      "id": 2,
+      "title": "My website",
+      "body": "lorem ipsum...",
+      "author": "luigi"
+    },
+    {
+      "title": "welcome snakes 🐍",
+      "body": "snakes are danger 💀",
+      "author": "Luigi",
+      "id": 4
+    },
+    {
+      "title": "welcome batman 🦇",
+      "body": "bat man from DC 🦇",
+      "author": "Luigi",
+      "id": 6
+    }
+  ]
 }
